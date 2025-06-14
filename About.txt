@@ -1,0 +1,6 @@
+📊 Just Delivered: Zomato Insights Dashboard!
+Excited to share my latest project – a data-driven dashboard built to analyze Zomato restaurant trends, user ratings, delivery patterns, and more.
+Built using Power BI / Tableau / Python (modify as per your tools), this dashboard provides actionable insights into customer preferences and business performance.
+
+🍽️ Data meets decisions.
+#DataAnalytics #DashboardDesign #ZomatoInsights #PowerBI #Tableau #DataVisualization #BusinessIntelligence #AnalyticsInAction
